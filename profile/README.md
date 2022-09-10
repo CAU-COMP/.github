@@ -1,5 +1,7 @@
 <h1>🐥2022 COMP 프로젝트🐥</h1>
 
+**Project Notion** | 🌐 [2022 COMP 프로젝트](https://1unaram.notion.site/2022-COMP-37489972ceba4ad683ad1ee445f11dfd)
+
 <br>
 
 # <프로젝트 조 구성>
